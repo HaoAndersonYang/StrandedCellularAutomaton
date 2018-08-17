@@ -1,0 +1,2690 @@
+Crossing Rule 0:
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+For Crossing Rule 0. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 1:
+SSR SSR Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 1. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 2:
+SSR SSR Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 2. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 3:
+SSR SSR Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 3. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 4:
+SSR NNN Cycle is: 4
+For Crossing Rule 4. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 5:
+SSR NNN Cycle is: 4
+For Crossing Rule 5. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 6:
+SSR NNN Cycle is: 4
+For Crossing Rule 6. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 7:
+SSR NNN Cycle is: 4
+For Crossing Rule 7. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 8:
+SSR SSR Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 8. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 9:
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+For Crossing Rule 9. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 10:
+SSR SSR Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 10. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 11:
+SSR SSR Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 11. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 12:
+SSR NNN Cycle is: 4
+For Crossing Rule 12. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 13:
+SSR NNN Cycle is: 4
+For Crossing Rule 13. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 14:
+SSR NNN Cycle is: 4
+For Crossing Rule 14. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 15:
+SSR NNN Cycle is: 4
+For Crossing Rule 15. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 16:
+SSR SSR Cycle is: 2
+For Crossing Rule 16. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 17:
+SSR SSR Cycle is: 2
+For Crossing Rule 17. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 18:
+SSR SSR Cycle is: 2
+For Crossing Rule 18. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 19:
+SSR SSR Cycle is: 2
+For Crossing Rule 19. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 20:
+For Crossing Rule 20. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 21:
+For Crossing Rule 21. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 22:
+For Crossing Rule 22. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 23:
+For Crossing Rule 23. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 24:
+SSR SSR Cycle is: 2
+For Crossing Rule 24. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 25:
+SSR SSR Cycle is: 2
+For Crossing Rule 25. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 26:
+SSR SSR Cycle is: 2
+For Crossing Rule 26. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 27:
+SSR SSR Cycle is: 2
+For Crossing Rule 27. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 28:
+For Crossing Rule 28. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 29:
+For Crossing Rule 29. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 30:
+For Crossing Rule 30. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 31:
+For Crossing Rule 31. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 32:
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+For Crossing Rule 32. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 33:
+SSR SSR Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 33. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 34:
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+For Crossing Rule 34. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 35:
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+For Crossing Rule 35. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 36:
+SSR NNN Cycle is: 4
+For Crossing Rule 36. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 37:
+SSR NNN Cycle is: 4
+For Crossing Rule 37. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 38:
+SSR NNN Cycle is: 4
+For Crossing Rule 38. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 39:
+SSR NNN Cycle is: 4
+For Crossing Rule 39. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 40:
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+For Crossing Rule 40. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 41:
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+For Crossing Rule 41. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 42:
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+For Crossing Rule 42. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 43:
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+For Crossing Rule 43. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 44:
+SSR NNN Cycle is: 4
+For Crossing Rule 44. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 45:
+SSR NNN Cycle is: 4
+For Crossing Rule 45. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 46:
+SSR NNN Cycle is: 4
+For Crossing Rule 46. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 47:
+SSR NNN Cycle is: 4
+For Crossing Rule 47. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 48:
+SSR SSR Cycle is: 2
+For Crossing Rule 48. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 49:
+SSR SSR Cycle is: 2
+For Crossing Rule 49. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 50:
+SSR SSR Cycle is: 2
+For Crossing Rule 50. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 51:
+SSR SSR Cycle is: 2
+For Crossing Rule 51. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 52:
+For Crossing Rule 52. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 53:
+For Crossing Rule 53. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 54:
+For Crossing Rule 54. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 55:
+For Crossing Rule 55. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 56:
+SSR SSR Cycle is: 2
+For Crossing Rule 56. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 57:
+SSR SSR Cycle is: 2
+For Crossing Rule 57. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 58:
+SSR SSR Cycle is: 2
+For Crossing Rule 58. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 59:
+SSR SSR Cycle is: 2
+For Crossing Rule 59. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 60:
+For Crossing Rule 60. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 61:
+For Crossing Rule 61. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 62:
+For Crossing Rule 62. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 63:
+For Crossing Rule 63. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 64:
+SSR SSR Cycle is: 2
+SSR SSL Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 64. There are 3 initial conditions that make it holds together.
+
+
+Crossing Rule 65:
+SSR SSR Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 65. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 66:
+SSR SSL Cycle is: 2
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+For Crossing Rule 66. There are 3 initial conditions that make it holds together.
+
+
+Crossing Rule 67:
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+For Crossing Rule 67. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 68:
+SSR SSL Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 68. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 69:
+SSR NNN Cycle is: 4
+For Crossing Rule 69. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 70:
+SSR SSL Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 70. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 71:
+SSR NNN Cycle is: 4
+For Crossing Rule 71. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 72:
+SSR SSR Cycle is: 2
+SSR NNN Cycle is: 4
+SSR SSL Cycle is: 2
+For Crossing Rule 72. There are 3 initial conditions that make it holds together.
+
+
+Crossing Rule 73:
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+For Crossing Rule 73. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 74:
+SSR SSL Cycle is: 2
+SSR SSR Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 74. There are 3 initial conditions that make it holds together.
+
+
+Crossing Rule 75:
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+For Crossing Rule 75. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 76:
+SSR SSL Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 76. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 77:
+SSR NNN Cycle is: 4
+For Crossing Rule 77. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 78:
+SSR SSL Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 78. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 79:
+SSR NNN Cycle is: 4
+For Crossing Rule 79. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 80:
+SSR SSL Cycle is: 2
+SSR SSR Cycle is: 2
+For Crossing Rule 80. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 81:
+SSR SSR Cycle is: 2
+For Crossing Rule 81. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 82:
+SSR SSR Cycle is: 2
+SSR SSL Cycle is: 2
+For Crossing Rule 82. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 83:
+SSR SSR Cycle is: 2
+For Crossing Rule 83. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 84:
+SSR SSL Cycle is: 2
+For Crossing Rule 84. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 85:
+For Crossing Rule 85. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 86:
+SSR SSL Cycle is: 2
+For Crossing Rule 86. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 87:
+For Crossing Rule 87. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 88:
+SSR SSL Cycle is: 2
+SSR SSR Cycle is: 2
+For Crossing Rule 88. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 89:
+SSR SSR Cycle is: 2
+For Crossing Rule 89. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 90:
+SSR SSL Cycle is: 2
+SSR SSR Cycle is: 2
+For Crossing Rule 90. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 91:
+SSR SSR Cycle is: 2
+For Crossing Rule 91. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 92:
+SSR SSL Cycle is: 2
+For Crossing Rule 92. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 93:
+For Crossing Rule 93. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 94:
+SSR SSL Cycle is: 2
+For Crossing Rule 94. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 95:
+For Crossing Rule 95. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 96:
+SSR SSR Cycle is: 2
+SSR NNN Cycle is: 4
+SSR SSL Cycle is: 2
+For Crossing Rule 96. There are 3 initial conditions that make it holds together.
+
+
+Crossing Rule 97:
+SSR SSR Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 97. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 98:
+SSR SSR Cycle is: 2
+SSR NNN Cycle is: 4
+SSR SSL Cycle is: 2
+For Crossing Rule 98. There are 3 initial conditions that make it holds together.
+
+
+Crossing Rule 99:
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+For Crossing Rule 99. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 100:
+SSR NNN Cycle is: 4
+SSR SSL Cycle is: 2
+For Crossing Rule 100. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 101:
+SSR NNN Cycle is: 4
+For Crossing Rule 101. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 102:
+SSR NNN Cycle is: 4
+SSR SSL Cycle is: 2
+For Crossing Rule 102. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 103:
+SSR NNN Cycle is: 4
+For Crossing Rule 103. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 104:
+SSR SSL Cycle is: 2
+SSR SSR Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 104. There are 3 initial conditions that make it holds together.
+
+
+Crossing Rule 105:
+SSR SSR Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 105. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 106:
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+SSR SSL Cycle is: 2
+For Crossing Rule 106. There are 3 initial conditions that make it holds together.
+
+
+Crossing Rule 107:
+SSR SSR Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 107. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 108:
+SSR NNN Cycle is: 4
+SSR SSL Cycle is: 2
+For Crossing Rule 108. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 109:
+SSR NNN Cycle is: 4
+For Crossing Rule 109. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 110:
+SSR NNN Cycle is: 4
+SSR SSL Cycle is: 2
+For Crossing Rule 110. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 111:
+SSR NNN Cycle is: 4
+For Crossing Rule 111. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 112:
+SSR SSR Cycle is: 2
+SSR SSL Cycle is: 2
+For Crossing Rule 112. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 113:
+SSR SSR Cycle is: 2
+For Crossing Rule 113. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 114:
+SSR SSR Cycle is: 2
+SSR SSL Cycle is: 2
+For Crossing Rule 114. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 115:
+SSR SSR Cycle is: 2
+For Crossing Rule 115. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 116:
+SSR SSL Cycle is: 2
+For Crossing Rule 116. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 117:
+For Crossing Rule 117. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 118:
+SSR SSL Cycle is: 2
+For Crossing Rule 118. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 119:
+For Crossing Rule 119. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 120:
+SSR SSR Cycle is: 2
+SSR SSL Cycle is: 2
+For Crossing Rule 120. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 121:
+SSR SSR Cycle is: 2
+For Crossing Rule 121. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 122:
+SSR SSR Cycle is: 2
+SSR SSL Cycle is: 2
+For Crossing Rule 122. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 123:
+SSR SSR Cycle is: 2
+For Crossing Rule 123. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 124:
+SSR SSL Cycle is: 2
+For Crossing Rule 124. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 125:
+For Crossing Rule 125. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 126:
+SSR SSL Cycle is: 2
+For Crossing Rule 126. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 127:
+For Crossing Rule 127. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 128:
+SSR SSR Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 128. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 129:
+SSR SSR Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 129. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 130:
+SSR SSR Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 130. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 131:
+SSR SSR Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 131. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 132:
+SSR NNN Cycle is: 4
+For Crossing Rule 132. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 133:
+SSR NNN Cycle is: 4
+For Crossing Rule 133. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 134:
+SSR NNN Cycle is: 4
+For Crossing Rule 134. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 135:
+SSR NNN Cycle is: 4
+For Crossing Rule 135. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 136:
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+For Crossing Rule 136. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 137:
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+For Crossing Rule 137. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 138:
+SSR SSR Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 138. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 139:
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+For Crossing Rule 139. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 140:
+SSR NNN Cycle is: 4
+For Crossing Rule 140. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 141:
+SSR NNN Cycle is: 4
+For Crossing Rule 141. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 142:
+SSR NNN Cycle is: 4
+For Crossing Rule 142. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 143:
+SSR NNN Cycle is: 4
+For Crossing Rule 143. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 144:
+SSR SSR Cycle is: 2
+For Crossing Rule 144. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 145:
+SSR SSR Cycle is: 2
+For Crossing Rule 145. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 146:
+SSR SSR Cycle is: 2
+For Crossing Rule 146. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 147:
+SSR SSR Cycle is: 2
+For Crossing Rule 147. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 148:
+For Crossing Rule 148. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 149:
+For Crossing Rule 149. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 150:
+For Crossing Rule 150. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 151:
+For Crossing Rule 151. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 152:
+SSR SSR Cycle is: 2
+For Crossing Rule 152. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 153:
+SSR SSR Cycle is: 2
+For Crossing Rule 153. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 154:
+SSR SSR Cycle is: 2
+For Crossing Rule 154. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 155:
+SSR SSR Cycle is: 2
+For Crossing Rule 155. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 156:
+For Crossing Rule 156. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 157:
+For Crossing Rule 157. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 158:
+For Crossing Rule 158. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 159:
+For Crossing Rule 159. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 160:
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+For Crossing Rule 160. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 161:
+SSR SSR Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 161. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 162:
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+For Crossing Rule 162. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 163:
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+For Crossing Rule 163. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 164:
+SSR NNN Cycle is: 4
+For Crossing Rule 164. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 165:
+SSR NNN Cycle is: 4
+For Crossing Rule 165. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 166:
+SSR NNN Cycle is: 4
+For Crossing Rule 166. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 167:
+SSR NNN Cycle is: 4
+For Crossing Rule 167. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 168:
+SSR SSR Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 168. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 169:
+SSR SSR Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 169. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 170:
+SSR SSR Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 170. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 171:
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+For Crossing Rule 171. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 172:
+SSR NNN Cycle is: 4
+For Crossing Rule 172. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 173:
+SSR NNN Cycle is: 4
+For Crossing Rule 173. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 174:
+SSR NNN Cycle is: 4
+For Crossing Rule 174. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 175:
+SSR NNN Cycle is: 4
+For Crossing Rule 175. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 176:
+SSR SSR Cycle is: 2
+For Crossing Rule 176. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 177:
+SSR SSR Cycle is: 2
+For Crossing Rule 177. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 178:
+SSR SSR Cycle is: 2
+For Crossing Rule 178. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 179:
+SSR SSR Cycle is: 2
+For Crossing Rule 179. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 180:
+For Crossing Rule 180. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 181:
+For Crossing Rule 181. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 182:
+For Crossing Rule 182. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 183:
+For Crossing Rule 183. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 184:
+SSR SSR Cycle is: 2
+For Crossing Rule 184. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 185:
+SSR SSR Cycle is: 2
+For Crossing Rule 185. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 186:
+SSR SSR Cycle is: 2
+For Crossing Rule 186. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 187:
+SSR SSR Cycle is: 2
+For Crossing Rule 187. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 188:
+For Crossing Rule 188. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 189:
+For Crossing Rule 189. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 190:
+For Crossing Rule 190. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 191:
+For Crossing Rule 191. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 192:
+SSR SSR Cycle is: 2
+SSR SSL Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 192. There are 3 initial conditions that make it holds together.
+
+
+Crossing Rule 193:
+SSR SSR Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 193. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 194:
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+SSR SSL Cycle is: 2
+For Crossing Rule 194. There are 3 initial conditions that make it holds together.
+
+
+Crossing Rule 195:
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+For Crossing Rule 195. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 196:
+SSR NNN Cycle is: 4
+SSR SSL Cycle is: 2
+For Crossing Rule 196. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 197:
+SSR NNN Cycle is: 4
+For Crossing Rule 197. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 198:
+SSR SSL Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 198. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 199:
+SSR NNN Cycle is: 4
+For Crossing Rule 199. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 200:
+SSR NNN Cycle is: 4
+SSR SSL Cycle is: 2
+SSR SSR Cycle is: 2
+For Crossing Rule 200. There are 3 initial conditions that make it holds together.
+
+
+Crossing Rule 201:
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+For Crossing Rule 201. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 202:
+SSR SSL Cycle is: 2
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+For Crossing Rule 202. There are 3 initial conditions that make it holds together.
+
+
+Crossing Rule 203:
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+For Crossing Rule 203. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 204:
+SSR NNN Cycle is: 4
+SSR SSL Cycle is: 2
+For Crossing Rule 204. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 205:
+SSR NNN Cycle is: 4
+For Crossing Rule 205. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 206:
+SSR SSL Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 206. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 207:
+SSR NNN Cycle is: 4
+For Crossing Rule 207. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 208:
+SSR SSR Cycle is: 2
+SSR SSL Cycle is: 2
+For Crossing Rule 208. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 209:
+SSR SSR Cycle is: 2
+For Crossing Rule 209. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 210:
+SSR SSR Cycle is: 2
+SSR SSL Cycle is: 2
+For Crossing Rule 210. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 211:
+SSR SSR Cycle is: 2
+For Crossing Rule 211. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 212:
+SSR SSL Cycle is: 2
+For Crossing Rule 212. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 213:
+For Crossing Rule 213. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 214:
+SSR SSL Cycle is: 2
+For Crossing Rule 214. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 215:
+For Crossing Rule 215. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 216:
+SSR SSL Cycle is: 2
+SSR SSR Cycle is: 2
+For Crossing Rule 216. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 217:
+SSR SSR Cycle is: 2
+For Crossing Rule 217. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 218:
+SSR SSR Cycle is: 2
+SSR SSL Cycle is: 2
+For Crossing Rule 218. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 219:
+SSR SSR Cycle is: 2
+For Crossing Rule 219. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 220:
+SSR SSL Cycle is: 2
+For Crossing Rule 220. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 221:
+For Crossing Rule 221. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 222:
+SSR SSL Cycle is: 2
+For Crossing Rule 222. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 223:
+For Crossing Rule 223. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 224:
+SSR SSR Cycle is: 2
+SSR SSL Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 224. There are 3 initial conditions that make it holds together.
+
+
+Crossing Rule 225:
+SSR SSR Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 225. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 226:
+SSR SSR Cycle is: 2
+SSR SSL Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 226. There are 3 initial conditions that make it holds together.
+
+
+Crossing Rule 227:
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+For Crossing Rule 227. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 228:
+SSR SSL Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 228. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 229:
+SSR NNN Cycle is: 4
+For Crossing Rule 229. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 230:
+SSR SSL Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 230. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 231:
+SSR NNN Cycle is: 4
+For Crossing Rule 231. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 232:
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+SSR SSL Cycle is: 2
+For Crossing Rule 232. There are 3 initial conditions that make it holds together.
+
+
+Crossing Rule 233:
+SSR SSR Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 233. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 234:
+SSR SSR Cycle is: 2
+SSR SSL Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 234. There are 3 initial conditions that make it holds together.
+
+
+Crossing Rule 235:
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+For Crossing Rule 235. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 236:
+SSR NNN Cycle is: 4
+SSR SSL Cycle is: 2
+For Crossing Rule 236. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 237:
+SSR NNN Cycle is: 4
+For Crossing Rule 237. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 238:
+SSR SSL Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 238. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 239:
+SSR NNN Cycle is: 4
+For Crossing Rule 239. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 240:
+SSR SSR Cycle is: 2
+SSR SSL Cycle is: 2
+For Crossing Rule 240. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 241:
+SSR SSR Cycle is: 2
+For Crossing Rule 241. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 242:
+SSR SSL Cycle is: 2
+SSR SSR Cycle is: 2
+For Crossing Rule 242. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 243:
+SSR SSR Cycle is: 2
+For Crossing Rule 243. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 244:
+SSR SSL Cycle is: 2
+For Crossing Rule 244. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 245:
+For Crossing Rule 245. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 246:
+SSR SSL Cycle is: 2
+For Crossing Rule 246. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 247:
+For Crossing Rule 247. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 248:
+SSR SSR Cycle is: 2
+SSR SSL Cycle is: 2
+For Crossing Rule 248. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 249:
+SSR SSR Cycle is: 2
+For Crossing Rule 249. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 250:
+SSR SSR Cycle is: 2
+SSR SSL Cycle is: 2
+For Crossing Rule 250. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 251:
+SSR SSR Cycle is: 2
+For Crossing Rule 251. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 252:
+SSR SSL Cycle is: 2
+For Crossing Rule 252. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 253:
+For Crossing Rule 253. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 254:
+SSR SSL Cycle is: 2
+For Crossing Rule 254. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 255:
+For Crossing Rule 255. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 256:
+SSR SSR Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 256. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 257:
+SSR SSR Cycle is: 2
+SSR NNN Cycle is: 4
+SSR SSL Cycle is: 2
+For Crossing Rule 257. There are 3 initial conditions that make it holds together.
+
+
+Crossing Rule 258:
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+For Crossing Rule 258. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 259:
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+SSR SSL Cycle is: 2
+For Crossing Rule 259. There are 3 initial conditions that make it holds together.
+
+
+Crossing Rule 260:
+SSR NNN Cycle is: 4
+For Crossing Rule 260. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 261:
+SSR NNN Cycle is: 4
+For Crossing Rule 261. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 262:
+SSR NNN Cycle is: 4
+For Crossing Rule 262. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 263:
+SSR NNN Cycle is: 4
+For Crossing Rule 263. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 264:
+SSR SSR Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 264. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 265:
+SSR SSR Cycle is: 2
+SSR SSL Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 265. There are 3 initial conditions that make it holds together.
+
+
+Crossing Rule 266:
+SSR SSR Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 266. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 267:
+SSR SSR Cycle is: 2
+SSR SSL Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 267. There are 3 initial conditions that make it holds together.
+
+
+Crossing Rule 268:
+SSR NNN Cycle is: 4
+For Crossing Rule 268. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 269:
+SSR NNN Cycle is: 4
+For Crossing Rule 269. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 270:
+SSR NNN Cycle is: 4
+For Crossing Rule 270. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 271:
+SSR NNN Cycle is: 4
+For Crossing Rule 271. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 272:
+SSR SSR Cycle is: 2
+For Crossing Rule 272. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 273:
+SSR SSL Cycle is: 2
+SSR SSR Cycle is: 2
+For Crossing Rule 273. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 274:
+SSR SSR Cycle is: 2
+For Crossing Rule 274. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 275:
+SSR SSR Cycle is: 2
+SSR SSL Cycle is: 2
+For Crossing Rule 275. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 276:
+For Crossing Rule 276. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 277:
+For Crossing Rule 277. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 278:
+For Crossing Rule 278. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 279:
+For Crossing Rule 279. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 280:
+SSR SSR Cycle is: 2
+For Crossing Rule 280. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 281:
+SSR SSR Cycle is: 2
+SSR SSL Cycle is: 2
+For Crossing Rule 281. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 282:
+SSR SSR Cycle is: 2
+For Crossing Rule 282. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 283:
+SSR SSL Cycle is: 2
+SSR SSR Cycle is: 2
+For Crossing Rule 283. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 284:
+For Crossing Rule 284. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 285:
+For Crossing Rule 285. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 286:
+For Crossing Rule 286. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 287:
+For Crossing Rule 287. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 288:
+SSR SSR Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 288. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 289:
+SSR SSL Cycle is: 2
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+For Crossing Rule 289. There are 3 initial conditions that make it holds together.
+
+
+Crossing Rule 290:
+SSR SSR Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 290. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 291:
+SSR NNN Cycle is: 4
+SSR SSL Cycle is: 2
+SSR SSR Cycle is: 2
+For Crossing Rule 291. There are 3 initial conditions that make it holds together.
+
+
+Crossing Rule 292:
+SSR NNN Cycle is: 4
+For Crossing Rule 292. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 293:
+SSR NNN Cycle is: 4
+For Crossing Rule 293. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 294:
+SSR NNN Cycle is: 4
+For Crossing Rule 294. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 295:
+SSR NNN Cycle is: 4
+For Crossing Rule 295. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 296:
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+For Crossing Rule 296. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 297:
+SSR SSL Cycle is: 2
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+For Crossing Rule 297. There are 3 initial conditions that make it holds together.
+
+
+Crossing Rule 298:
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+For Crossing Rule 298. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 299:
+SSR SSR Cycle is: 2
+SSR SSL Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 299. There are 3 initial conditions that make it holds together.
+
+
+Crossing Rule 300:
+SSR NNN Cycle is: 4
+For Crossing Rule 300. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 301:
+SSR NNN Cycle is: 4
+For Crossing Rule 301. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 302:
+SSR NNN Cycle is: 4
+For Crossing Rule 302. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 303:
+SSR NNN Cycle is: 4
+For Crossing Rule 303. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 304:
+SSR SSR Cycle is: 2
+For Crossing Rule 304. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 305:
+SSR SSR Cycle is: 2
+SSR SSL Cycle is: 2
+For Crossing Rule 305. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 306:
+SSR SSR Cycle is: 2
+For Crossing Rule 306. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 307:
+SSR SSL Cycle is: 2
+SSR SSR Cycle is: 2
+For Crossing Rule 307. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 308:
+For Crossing Rule 308. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 309:
+For Crossing Rule 309. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 310:
+For Crossing Rule 310. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 311:
+For Crossing Rule 311. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 312:
+SSR SSR Cycle is: 2
+For Crossing Rule 312. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 313:
+SSR SSL Cycle is: 2
+SSR SSR Cycle is: 2
+For Crossing Rule 313. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 314:
+SSR SSR Cycle is: 2
+For Crossing Rule 314. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 315:
+SSR SSL Cycle is: 2
+SSR SSR Cycle is: 2
+For Crossing Rule 315. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 316:
+For Crossing Rule 316. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 317:
+For Crossing Rule 317. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 318:
+For Crossing Rule 318. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 319:
+For Crossing Rule 319. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 320:
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+For Crossing Rule 320. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 321:
+SSR SSR Cycle is: 2
+SSR SSL Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 321. There are 3 initial conditions that make it holds together.
+
+
+Crossing Rule 322:
+SSR SSR Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 322. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 323:
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+SSR SSL Cycle is: 2
+For Crossing Rule 323. There are 3 initial conditions that make it holds together.
+
+
+Crossing Rule 324:
+SSR NNN Cycle is: 4
+For Crossing Rule 324. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 325:
+SSR NNN Cycle is: 4
+For Crossing Rule 325. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 326:
+SSR NNN Cycle is: 4
+For Crossing Rule 326. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 327:
+SSR NNN Cycle is: 4
+For Crossing Rule 327. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 328:
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+For Crossing Rule 328. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 329:
+SSR SSR Cycle is: 2
+SSR NNN Cycle is: 4
+SSR SSL Cycle is: 2
+For Crossing Rule 329. There are 3 initial conditions that make it holds together.
+
+
+Crossing Rule 330:
+SSR SSR Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 330. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 331:
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+SSR SSL Cycle is: 2
+For Crossing Rule 331. There are 3 initial conditions that make it holds together.
+
+
+Crossing Rule 332:
+SSR NNN Cycle is: 4
+For Crossing Rule 332. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 333:
+SSR NNN Cycle is: 4
+For Crossing Rule 333. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 334:
+SSR NNN Cycle is: 4
+For Crossing Rule 334. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 335:
+SSR NNN Cycle is: 4
+For Crossing Rule 335. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 336:
+SSR SSR Cycle is: 2
+For Crossing Rule 336. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 337:
+SSR SSL Cycle is: 2
+SSR SSR Cycle is: 2
+For Crossing Rule 337. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 338:
+SSR SSR Cycle is: 2
+For Crossing Rule 338. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 339:
+SSR SSR Cycle is: 2
+SSR SSL Cycle is: 2
+For Crossing Rule 339. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 340:
+For Crossing Rule 340. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 341:
+For Crossing Rule 341. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 342:
+For Crossing Rule 342. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 343:
+For Crossing Rule 343. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 344:
+SSR SSR Cycle is: 2
+For Crossing Rule 344. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 345:
+SSR SSR Cycle is: 2
+SSR SSL Cycle is: 2
+For Crossing Rule 345. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 346:
+SSR SSR Cycle is: 2
+For Crossing Rule 346. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 347:
+SSR SSL Cycle is: 2
+SSR SSR Cycle is: 2
+For Crossing Rule 347. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 348:
+For Crossing Rule 348. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 349:
+For Crossing Rule 349. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 350:
+For Crossing Rule 350. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 351:
+For Crossing Rule 351. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 352:
+SSR SSR Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 352. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 353:
+SSR SSL Cycle is: 2
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+For Crossing Rule 353. There are 3 initial conditions that make it holds together.
+
+
+Crossing Rule 354:
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+For Crossing Rule 354. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 355:
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+SSR SSL Cycle is: 2
+For Crossing Rule 355. There are 3 initial conditions that make it holds together.
+
+
+Crossing Rule 356:
+SSR NNN Cycle is: 4
+For Crossing Rule 356. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 357:
+SSR NNN Cycle is: 4
+For Crossing Rule 357. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 358:
+SSR NNN Cycle is: 4
+For Crossing Rule 358. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 359:
+SSR NNN Cycle is: 4
+For Crossing Rule 359. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 360:
+SSR SSR Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 360. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 361:
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+SSR SSL Cycle is: 2
+For Crossing Rule 361. There are 3 initial conditions that make it holds together.
+
+
+Crossing Rule 362:
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+For Crossing Rule 362. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 363:
+SSR SSL Cycle is: 2
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+For Crossing Rule 363. There are 3 initial conditions that make it holds together.
+
+
+Crossing Rule 364:
+SSR NNN Cycle is: 4
+For Crossing Rule 364. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 365:
+SSR NNN Cycle is: 4
+For Crossing Rule 365. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 366:
+SSR NNN Cycle is: 4
+For Crossing Rule 366. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 367:
+SSR NNN Cycle is: 4
+For Crossing Rule 367. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 368:
+SSR SSR Cycle is: 2
+For Crossing Rule 368. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 369:
+SSR SSL Cycle is: 2
+SSR SSR Cycle is: 2
+For Crossing Rule 369. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 370:
+SSR SSR Cycle is: 2
+For Crossing Rule 370. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 371:
+SSR SSR Cycle is: 2
+SSR SSL Cycle is: 2
+For Crossing Rule 371. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 372:
+For Crossing Rule 372. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 373:
+For Crossing Rule 373. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 374:
+For Crossing Rule 374. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 375:
+For Crossing Rule 375. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 376:
+SSR SSR Cycle is: 2
+For Crossing Rule 376. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 377:
+SSR SSR Cycle is: 2
+SSR SSL Cycle is: 2
+For Crossing Rule 377. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 378:
+SSR SSR Cycle is: 2
+For Crossing Rule 378. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 379:
+SSR SSL Cycle is: 2
+SSR SSR Cycle is: 2
+For Crossing Rule 379. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 380:
+For Crossing Rule 380. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 381:
+For Crossing Rule 381. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 382:
+For Crossing Rule 382. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 383:
+For Crossing Rule 383. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 384:
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+For Crossing Rule 384. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 385:
+SSR SSR Cycle is: 2
+SSR SSL Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 385. There are 3 initial conditions that make it holds together.
+
+
+Crossing Rule 386:
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+For Crossing Rule 386. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 387:
+SSR SSR Cycle is: 2
+SSR SSL Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 387. There are 3 initial conditions that make it holds together.
+
+
+Crossing Rule 388:
+SSR NNN Cycle is: 4
+For Crossing Rule 388. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 389:
+SSR NNN Cycle is: 4
+For Crossing Rule 389. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 390:
+SSR NNN Cycle is: 4
+For Crossing Rule 390. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 391:
+SSR NNN Cycle is: 4
+For Crossing Rule 391. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 392:
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+For Crossing Rule 392. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 393:
+SSR SSR Cycle is: 2
+SSR SSL Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 393. There are 3 initial conditions that make it holds together.
+
+
+Crossing Rule 394:
+SSR SSR Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 394. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 395:
+SSR SSL Cycle is: 2
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+For Crossing Rule 395. There are 3 initial conditions that make it holds together.
+
+
+Crossing Rule 396:
+SSR NNN Cycle is: 4
+For Crossing Rule 396. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 397:
+SSR NNN Cycle is: 4
+For Crossing Rule 397. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 398:
+SSR NNN Cycle is: 4
+For Crossing Rule 398. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 399:
+SSR NNN Cycle is: 4
+For Crossing Rule 399. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 400:
+SSR SSR Cycle is: 2
+For Crossing Rule 400. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 401:
+SSR SSR Cycle is: 2
+SSR SSL Cycle is: 2
+For Crossing Rule 401. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 402:
+SSR SSR Cycle is: 2
+For Crossing Rule 402. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 403:
+SSR SSL Cycle is: 2
+SSR SSR Cycle is: 2
+For Crossing Rule 403. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 404:
+For Crossing Rule 404. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 405:
+For Crossing Rule 405. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 406:
+For Crossing Rule 406. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 407:
+For Crossing Rule 407. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 408:
+SSR SSR Cycle is: 2
+For Crossing Rule 408. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 409:
+SSR SSL Cycle is: 2
+SSR SSR Cycle is: 2
+For Crossing Rule 409. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 410:
+SSR SSR Cycle is: 2
+For Crossing Rule 410. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 411:
+SSR SSR Cycle is: 2
+SSR SSL Cycle is: 2
+For Crossing Rule 411. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 412:
+For Crossing Rule 412. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 413:
+For Crossing Rule 413. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 414:
+For Crossing Rule 414. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 415:
+For Crossing Rule 415. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 416:
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+For Crossing Rule 416. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 417:
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+SSR SSL Cycle is: 2
+For Crossing Rule 417. There are 3 initial conditions that make it holds together.
+
+
+Crossing Rule 418:
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+For Crossing Rule 418. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 419:
+SSR SSR Cycle is: 2
+SSR NNN Cycle is: 4
+SSR SSL Cycle is: 2
+For Crossing Rule 419. There are 3 initial conditions that make it holds together.
+
+
+Crossing Rule 420:
+SSR NNN Cycle is: 4
+For Crossing Rule 420. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 421:
+SSR NNN Cycle is: 4
+For Crossing Rule 421. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 422:
+SSR NNN Cycle is: 4
+For Crossing Rule 422. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 423:
+SSR NNN Cycle is: 4
+For Crossing Rule 423. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 424:
+SSR SSR Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 424. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 425:
+SSR SSL Cycle is: 2
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+For Crossing Rule 425. There are 3 initial conditions that make it holds together.
+
+
+Crossing Rule 426:
+SSR SSR Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 426. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 427:
+SSR SSL Cycle is: 2
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+For Crossing Rule 427. There are 3 initial conditions that make it holds together.
+
+
+Crossing Rule 428:
+SSR NNN Cycle is: 4
+For Crossing Rule 428. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 429:
+SSR NNN Cycle is: 4
+For Crossing Rule 429. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 430:
+SSR NNN Cycle is: 4
+For Crossing Rule 430. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 431:
+SSR NNN Cycle is: 4
+For Crossing Rule 431. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 432:
+SSR SSR Cycle is: 2
+For Crossing Rule 432. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 433:
+SSR SSR Cycle is: 2
+SSR SSL Cycle is: 2
+For Crossing Rule 433. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 434:
+SSR SSR Cycle is: 2
+For Crossing Rule 434. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 435:
+SSR SSL Cycle is: 2
+SSR SSR Cycle is: 2
+For Crossing Rule 435. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 436:
+For Crossing Rule 436. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 437:
+For Crossing Rule 437. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 438:
+For Crossing Rule 438. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 439:
+For Crossing Rule 439. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 440:
+SSR SSR Cycle is: 2
+For Crossing Rule 440. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 441:
+SSR SSL Cycle is: 2
+SSR SSR Cycle is: 2
+For Crossing Rule 441. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 442:
+SSR SSR Cycle is: 2
+For Crossing Rule 442. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 443:
+SSR SSL Cycle is: 2
+SSR SSR Cycle is: 2
+For Crossing Rule 443. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 444:
+For Crossing Rule 444. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 445:
+For Crossing Rule 445. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 446:
+For Crossing Rule 446. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 447:
+For Crossing Rule 447. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 448:
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+For Crossing Rule 448. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 449:
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+SSR SSL Cycle is: 2
+For Crossing Rule 449. There are 3 initial conditions that make it holds together.
+
+
+Crossing Rule 450:
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+For Crossing Rule 450. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 451:
+SSR SSR Cycle is: 2
+SSR SSL Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 451. There are 3 initial conditions that make it holds together.
+
+
+Crossing Rule 452:
+SSR NNN Cycle is: 4
+For Crossing Rule 452. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 453:
+SSR NNN Cycle is: 4
+For Crossing Rule 453. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 454:
+SSR NNN Cycle is: 4
+For Crossing Rule 454. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 455:
+SSR NNN Cycle is: 4
+For Crossing Rule 455. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 456:
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+For Crossing Rule 456. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 457:
+SSR SSL Cycle is: 2
+SSR SSR Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 457. There are 3 initial conditions that make it holds together.
+
+
+Crossing Rule 458:
+SSR SSR Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 458. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 459:
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+SSR SSL Cycle is: 2
+For Crossing Rule 459. There are 3 initial conditions that make it holds together.
+
+
+Crossing Rule 460:
+SSR NNN Cycle is: 4
+For Crossing Rule 460. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 461:
+SSR NNN Cycle is: 4
+For Crossing Rule 461. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 462:
+SSR NNN Cycle is: 4
+For Crossing Rule 462. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 463:
+SSR NNN Cycle is: 4
+For Crossing Rule 463. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 464:
+SSR SSR Cycle is: 2
+For Crossing Rule 464. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 465:
+SSR SSR Cycle is: 2
+SSR SSL Cycle is: 2
+For Crossing Rule 465. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 466:
+SSR SSR Cycle is: 2
+For Crossing Rule 466. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 467:
+SSR SSL Cycle is: 2
+SSR SSR Cycle is: 2
+For Crossing Rule 467. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 468:
+For Crossing Rule 468. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 469:
+For Crossing Rule 469. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 470:
+For Crossing Rule 470. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 471:
+For Crossing Rule 471. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 472:
+SSR SSR Cycle is: 2
+For Crossing Rule 472. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 473:
+SSR SSR Cycle is: 2
+SSR SSL Cycle is: 2
+For Crossing Rule 473. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 474:
+SSR SSR Cycle is: 2
+For Crossing Rule 474. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 475:
+SSR SSL Cycle is: 2
+SSR SSR Cycle is: 2
+For Crossing Rule 475. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 476:
+For Crossing Rule 476. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 477:
+For Crossing Rule 477. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 478:
+For Crossing Rule 478. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 479:
+For Crossing Rule 479. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 480:
+SSR SSR Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 480. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 481:
+SSR SSL Cycle is: 2
+SSR SSR Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 481. There are 3 initial conditions that make it holds together.
+
+
+Crossing Rule 482:
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+For Crossing Rule 482. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 483:
+SSR SSR Cycle is: 2
+SSR SSL Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 483. There are 3 initial conditions that make it holds together.
+
+
+Crossing Rule 484:
+SSR NNN Cycle is: 4
+For Crossing Rule 484. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 485:
+SSR NNN Cycle is: 4
+For Crossing Rule 485. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 486:
+SSR NNN Cycle is: 4
+For Crossing Rule 486. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 487:
+SSR NNN Cycle is: 4
+For Crossing Rule 487. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 488:
+SSR SSR Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 488. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 489:
+SSR SSL Cycle is: 2
+SSR SSR Cycle is: 2
+SSR NNN Cycle is: 4
+For Crossing Rule 489. There are 3 initial conditions that make it holds together.
+
+
+Crossing Rule 490:
+SSR NNN Cycle is: 4
+SSR SSR Cycle is: 2
+For Crossing Rule 490. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 491:
+SSR NNN Cycle is: 4
+SSR SSL Cycle is: 2
+SSR SSR Cycle is: 2
+For Crossing Rule 491. There are 3 initial conditions that make it holds together.
+
+
+Crossing Rule 492:
+SSR NNN Cycle is: 4
+For Crossing Rule 492. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 493:
+SSR NNN Cycle is: 4
+For Crossing Rule 493. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 494:
+SSR NNN Cycle is: 4
+For Crossing Rule 494. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 495:
+SSR NNN Cycle is: 4
+For Crossing Rule 495. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 496:
+SSR SSR Cycle is: 2
+For Crossing Rule 496. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 497:
+SSR SSR Cycle is: 2
+SSR SSL Cycle is: 2
+For Crossing Rule 497. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 498:
+SSR SSR Cycle is: 2
+For Crossing Rule 498. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 499:
+SSR SSR Cycle is: 2
+SSR SSL Cycle is: 2
+For Crossing Rule 499. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 500:
+For Crossing Rule 500. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 501:
+For Crossing Rule 501. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 502:
+For Crossing Rule 502. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 503:
+For Crossing Rule 503. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 504:
+SSR SSR Cycle is: 2
+For Crossing Rule 504. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 505:
+SSR SSR Cycle is: 2
+SSR SSL Cycle is: 2
+For Crossing Rule 505. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 506:
+SSR SSR Cycle is: 2
+For Crossing Rule 506. There are 1 initial conditions that make it holds together.
+
+
+Crossing Rule 507:
+SSR SSR Cycle is: 2
+SSR SSL Cycle is: 2
+For Crossing Rule 507. There are 2 initial conditions that make it holds together.
+
+
+Crossing Rule 508:
+For Crossing Rule 508. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 509:
+For Crossing Rule 509. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 510:
+For Crossing Rule 510. There are 0 initial conditions that make it holds together.
+
+
+Crossing Rule 511:
+For Crossing Rule 511. There are 0 initial conditions that make it holds together.
+
+
+The maximum cycle of width 2 is 4.
+It is reached with initial condition SSR NNN and crossing rule #0
