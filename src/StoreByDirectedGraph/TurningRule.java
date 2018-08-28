@@ -45,7 +45,7 @@ public class TurningRule {
         }
         if (neighbors[1].getTurningStatus()[1] == TurningStatus.Slanted) {
             right = neighbors[1].getTurningStatus()[1];
-        } else if (neighbors[1].getTurningStatus()[1] == TurningStatus.Upright) {
+        } else if (neighbors[1].getTurningStatus()[0] == TurningStatus.Upright) {
             right = neighbors[1].getTurningStatus()[0];
         } else {
             right = TurningStatus.No;

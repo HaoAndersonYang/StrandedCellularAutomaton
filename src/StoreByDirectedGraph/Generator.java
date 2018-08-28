@@ -1,7 +1,5 @@
 package StoreByDirectedGraph;
 
-import javafx.scene.control.Cell;
-
 import java.util.HashMap;
 
 public class Generator {
@@ -13,7 +11,6 @@ public class Generator {
     CellNode[] currentRow;
     CellNode[] initialRow;
     CellNode[] drawingRow;
-
     int[][] threadsMap;
     int[] availableThreads;
 
@@ -21,9 +18,10 @@ public class Generator {
     int height;
     private HashMap<Character, TurningStatus> turningStatusHashMap;
     private HashMap<Character, CrossingStatus> crossingStatusHashMap;
+    private BruteForceRepeatTest.InitialConditionContainer initialConditionContainer;
 
-
-    public Generator(CrossingRule crossingRule, TurningRule turningRule, String[] input, int width, int height, HashMap<Character, TurningStatus> turningStatusHashMap, HashMap<Character, CrossingStatus> crossingStatusHashMap) throws Exception {
+    public Generator(BruteForceRepeatTest.InitialConditionContainer initialConditionContainer, CrossingRule crossingRule, TurningRule turningRule, String[] input, int width, int height, HashMap<Character, TurningStatus> turningStatusHashMap, HashMap<Character, CrossingStatus> crossingStatusHashMap) throws Exception {
+        this.initialConditionContainer = initialConditionContainer;
         this.turningRule = turningRule;
         this.crossingRule = crossingRule;
         this.input = input;
@@ -77,13 +75,12 @@ public class Generator {
         }
         //Initialize checking row to be row 0.
         if (height - 1 == 0) {
-//            System.out.println("set the drawing row to current row");
             drawingRow = currentRow;
         }
         //Keep Row 0 as reference. It act as the first checking row and should be restored.
         initialRow = currentRow;
         checkingRow = currentRow;
-        currentRow = nextRow(currentRow, 1);
+        currentRow = nextRow(currentRow, 1, false);
     }
 
     /**
@@ -110,15 +107,27 @@ public class Generator {
                     power *= 2;
                     lam = 0;
                 }
-                currentRow = nextRow(currentRow, row + 1);
+                if (currentRow == null) {
+                    return -1;
+                }
+                currentRow = nextRow(currentRow, row + 1, false);
                 row++;
                 lam++;
+            }
+            // Generate the directed graph based on the cycle
+            for (int i = 0; i <= lam; i++) {
+                if (checkingRow == null) {
+                    return -1;
+                }
+                checkingRow = nextRow(checkingRow, checking + i, true);
             }
         }
         // Notice that if the row generated are less than the minimum height required by the user, we keep generating until we
         // fulfill the requirement.
         while (row < height) {
-            currentRow = nextRow(currentRow, row + 1);
+            // If we checkCycle, we do not need to deal with graph now
+            // If we don't check the holding-together property based on cycle, we fill the graph
+            currentRow = nextRow(currentRow, row + 1, !checkCycle);
             row++;
         }
         if (checkCycle) {
@@ -134,7 +143,7 @@ public class Generator {
      * @param row      An integer contains the number of row we are generating
      * @return toGenerate, which is a CellNode array contains the row we generated.
      */
-    public CellNode[] nextRow(CellNode[] inputRow, int row) {
+    public CellNode[] nextRow(CellNode[] inputRow, int row, boolean drawGraph) {
         MapContainer mapContainer = new MapContainer(threadsMap);
         CellNode[] toGenerate = new CellNode[width];
         for (int col = 0; col < width; col++) {
@@ -144,23 +153,37 @@ public class Generator {
                 CellNode[] neighbors = new CellNode[2];
                 neighbors[0] = inputRow[(col - 1 + width) % width];
                 neighbors[1] = inputRow[col];
-                toGenerate[col] = new CellNode(neighbors, turningRule, crossingRule, mapContainer);
+                toGenerate[col] = new CellNode(neighbors, turningRule, crossingRule, mapContainer, drawGraph);
             } else {
                 // If row % 2 = 1, it means that the current row is wrapping around.
                 CellNode[] neighbors = new CellNode[2];
                 neighbors[0] = inputRow[col];
                 neighbors[1] = inputRow[(col + 1) % width];
-                toGenerate[col] = new CellNode(neighbors, turningRule, crossingRule, mapContainer);
+                toGenerate[col] = new CellNode(neighbors, turningRule, crossingRule, mapContainer, drawGraph);
             }
         }
         if (row == height - 1) {
             drawingRow = toGenerate;
+        }
+        String rowString = "";
+        for (int i = 0; i < width; i++) {
+            rowString += toGenerate[i].toString();
+        }
+        if (initialConditionContainer.iCM.containsKey(rowString)) {
+            if (initialConditionContainer.iCM.get(rowString) == 1) {
+                return null;
+            } else {
+                initialConditionContainer.iCM.replace(rowString, 1);
+            }
         }
         return toGenerate;
     }
 
     // Compare whether two row of cells are equal. O(Width) efficiency obviously
     public boolean compareRow(CellNode[] row1, CellNode[] row2) {
+        if (row1 == null || row2 == null) {
+            return false;
+        }
         if (row1.length != row2.length) {
             //This shall not happen.
             return false;
@@ -169,6 +192,8 @@ public class Generator {
             if (row1[i].getCrossingStatus() == row2[i].getCrossingStatus()
                     && row1[i].getTurningStatus()[0] == row2[i].getTurningStatus()[0]
                     && row1[i].getTurningStatus()[1] == row2[i].getTurningStatus()[1]
+                    && row1[i].getThreads()[0] == row2[i].getThreads()[0]
+                    && row1[i].getThreads()[1] == row2[i].getThreads()[1]
                     ) {
                 continue;
             } else {

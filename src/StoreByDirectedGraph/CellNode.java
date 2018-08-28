@@ -34,7 +34,7 @@ public class CellNode {
     }
 
 
-    public CellNode(CellNode[] neighbors, TurningRule turningRule, CrossingRule crossingRule, Generator.MapContainer mapContainer) {
+    public CellNode(CellNode[] neighbors, TurningRule turningRule, CrossingRule crossingRule, Generator.MapContainer mapContainer, boolean drawGraph) {
         this.neighbors = neighbors;
         this.turningRule = turningRule;
         this.crossingRule = crossingRule;
@@ -47,10 +47,12 @@ public class CellNode {
             this.crossingStatus = CrossingStatus.NoCross;
         }
         generateThreads();
-        if (crossingStatus == CrossingStatus.LeftTop) {
-            mapContainer.theMap[threads[1]][threads[0]] = 1;
-        } else if (crossingStatus == CrossingStatus.RightTop) {
-            mapContainer.theMap[threads[0]][threads[1]] = 1;
+        if (drawGraph) {
+            if (crossingStatus == CrossingStatus.LeftTop) {
+                mapContainer.theMap[threads[1]][threads[0]] = 1;
+            } else if (crossingStatus == CrossingStatus.RightTop) {
+                mapContainer.theMap[threads[0]][threads[1]] = 1;
+            }
         }
     }
 

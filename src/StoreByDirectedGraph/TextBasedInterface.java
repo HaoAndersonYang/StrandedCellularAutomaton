@@ -52,8 +52,8 @@ public class TextBasedInterface {
 //            input[i] = "SSR";
         }
 //        input[1] = "SNN";
-
-        Generator cellGenerator = new Generator(crossingRule, turningRule, input, width, height, turningStatusHashMap, crossingStatusHashMap);
+        BruteForceRepeatTest.InitialConditionContainer initialConditionContainer = new BruteForceRepeatTest.InitialConditionContainer(new HashMap<>());
+        Generator cellGenerator = new Generator(initialConditionContainer, crossingRule, turningRule, input, width, height, turningStatusHashMap, crossingStatusHashMap);
 
         System.out.println("\nIf you want to decide whether the pattern holds together based on a full cycle enter 1. Otherwise enter 0.");
 
