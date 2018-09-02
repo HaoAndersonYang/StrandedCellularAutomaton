@@ -70,6 +70,10 @@ If you want to only check the case where all cells will have two strands, enter 
 
 * **Hao Yang** - *Initial work*
 
+## Additional Information
+
+* The paper is available at the following link:
+//To be inserted
 ## Acknowledgments
 
 * I would like to thank Dr. Joshua Holden for the inspirations and helpful advices.
