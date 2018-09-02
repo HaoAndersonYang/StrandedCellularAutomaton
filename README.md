@@ -73,7 +73,8 @@ If you want to only check the case where all cells will have two strands, enter 
 ## Additional Information
 
 * The paper is available at the following link:
-//To be inserted
+https://scholar.rose-hulman.edu/cgi/preview.cgi?article=1168&context=math_mstr
+
 ## Acknowledgments
 
 * I would like to thank Dr. Joshua Holden for the inspirations and helpful advices.
