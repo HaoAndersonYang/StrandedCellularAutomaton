@@ -19,7 +19,7 @@ Explain how to use the project to investigate Stranded Cellular Automata.
 ### Generating a single weaving product
 
 Select class "TextBasedInterface" and run it. You will be able to generate a single weaving product by following instructions.
-Sample input following instructions (user input is **_emphasize_**):
+Sample input following instructions (user input is **_emphasized_**):
 
 Input the Turning Rule (0~511)
 
@@ -56,7 +56,7 @@ If you want to decide whether the pattern holds together based on a full cycle e
 
 Select class "BruteForceSearch" and run. You can perform the brute force searching on the maximum cycle length and average number of distinct weaving patterns based on a given width. 
 
-Sample input following instructions (user input is **_emphasize_**):
+Sample input following instructions (user input is **_emphasized_**):
 
 Please enter the width:
 
