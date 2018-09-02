@@ -1,12 +1,14 @@
 package StoreByDirectedGraph;
 
 import java.io.File;
+import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.Scanner;
 
-public class BruteForceRepeatTest {
+public class BruteForceSearch {
     static ArrayList<String[]> holdsTogetherPattern;
     static int maxCycle;
     static int maxCycleCrossingRule;
@@ -15,8 +17,6 @@ public class BruteForceRepeatTest {
     static HashMap<Integer, String> cellStatusHashMap = new HashMap<>();
     static TurningRule turningRule;
     private static PrintWriter writer;
-    private static int maxDistinctPatterns;
-    private static int maxPatternCrossingRule;
     private static String[] maxCycleCondition;
     private static int totalCount;
     private static boolean onlyTwoStrands;
@@ -40,11 +40,11 @@ public class BruteForceRepeatTest {
         System.out.println("Please enter the width:");
         int width = s.nextInt();
         System.out.println("If you want to only check the case where all cells will have two strands, enter 1. Otherwise enter 0");
-        onlyTwoStrands = s.nextInt() == 1;
-        repeatTest(width, true);
+        onlyTwoStrands = (s.nextInt() == 1);
+        bruteForceSearch(width, true);
 //        //Uncomment the following lines to repeatedly generate output
 //        for (int i = 2; i <= width; i++) {
-//            repeatTest(i, true);
+//            bruteForceSearch(i, true);
 //        }
     }
 
@@ -122,21 +122,37 @@ public class BruteForceRepeatTest {
     }
 
     /**
+     * @param progress
+     * @param aim
+     */
+    public static void printOutProgressBar(int progress, int aim, int length) throws IOException {
+        String output = "\rProgress: ||";
+        int step = aim / length;
+        int barlength = progress / step;
+        for (int j = 0; j < barlength + 1; j++) {
+            output += ">";
+        }
+        for (int j = 0; j < length - barlength - 1; j++) {
+            output += "=";
+        }
+        output += "|| " + Math.round((double) (progress + 1) / aim * 100) + "%";
+        System.out.write(output.getBytes());
+    }
+
+    /**
      * @param width
      * @param writeFile
      * @throws Exception
      */
-    public static void repeatTest(int width, boolean writeFile) throws Exception {
+    public static void bruteForceSearch(int width, boolean writeFile) throws Exception {
         holdsTogetherPattern = new ArrayList<>();
         maxCycle = 0;
         maxCycleCrossingRule = 0;
-        maxDistinctPatterns = 0;
-        maxPatternCrossingRule = 0;
         totalCount = 0;
         maxCycleCondition = new String[width];
-        String twoStrands = " with all possibilities";
+        String twoStrands = "with all possibilities";
         if (onlyTwoStrands) {
-            twoStrands = " when each cell always has two strands";
+            twoStrands = "when each cell always has two strands";
         }
         if (writeFile) {
             File toWrite = new File("output/" + twoStrands);
@@ -144,45 +160,33 @@ public class BruteForceRepeatTest {
             writer = new PrintWriter("output/" + twoStrands + "/Width = " + width + ".txt", "UTF-8");
         }
         InitialConditionContainer iCC;
-
         if (onlyTwoStrands) {
             iCC = generateInitialConditions(width, 2);
-            // These will cover all cases when there will always be two strands in cell
-            SearchCrossingRule(width, 0, iCC, writeFile);
-            SearchCrossingRule(width, 1, iCC, writeFile);
-            SearchCrossingRule(width, 4, iCC, writeFile);
-            SearchCrossingRule(width, 5, iCC, writeFile);
-            SearchCrossingRule(width, 64, iCC, writeFile);
-            SearchCrossingRule(width, 65, iCC, writeFile);
-            SearchCrossingRule(width, 68, iCC, writeFile);
-            SearchCrossingRule(width, 69, iCC, writeFile);
-            SearchCrossingRule(width, 256, iCC, writeFile);
-            SearchCrossingRule(width, 257, iCC, writeFile);
-            SearchCrossingRule(width, 260, iCC, writeFile);
-            SearchCrossingRule(width, 261, iCC, writeFile);
-            SearchCrossingRule(width, 320, iCC, writeFile);
-            SearchCrossingRule(width, 321, iCC, writeFile);
-            SearchCrossingRule(width, 324, iCC, writeFile);
-            SearchCrossingRule(width, 325, iCC, writeFile);
+            // These crossing rules will cover all cases when there will always be two strands in cell
+            int[] cases = new int[]{0, 1, 4, 5, 64, 65, 68, 69, 256, 257, 260, 261, 320, 321, 324, 325};
+            for (int i = 0; i < 16; i++) {
+                printOutProgressBar(i, 16, 16);
+                SearchCrossingRule(width, cases[i], iCC, writeFile);
+            }
         } else {
             iCC = generateInitialConditions(width, 5);
             for (int crossingRuleNum = 0; crossingRuleNum < 512; crossingRuleNum++) {
+                printOutProgressBar(crossingRuleNum, 512, 16);
                 SearchCrossingRule(width, crossingRuleNum, iCC, writeFile);
             }
         }
-
-        String cycleLengthOutput = "For width " + width + " we have:\n";
-        if (!onlyTwoStrands) {
-            cycleLengthOutput += "The maximum cycle is " + maxCycle + ".\n";
-            cycleLengthOutput += "It is reached with initial condition ";
-            for (int j = 0; j < width; j++) {
-                cycleLengthOutput += maxCycleCondition[j] + " ";
-            }
-            cycleLengthOutput += "and crossing rule #" + maxCycleCrossingRule + ".\n";
+        System.out.println();
+        System.out.println();
+        String cycleLengthOutput = "For width " + width + " " + twoStrands + " we have:\n";
+        cycleLengthOutput += "The maximum cycle is " + maxCycle + ".\n";
+        cycleLengthOutput += "It is reached with initial condition ";
+        for (int j = 0; j < width; j++) {
+            cycleLengthOutput += maxCycleCondition[j] + " ";
         }
+        cycleLengthOutput += "and crossing rule #" + maxCycleCrossingRule + ".\n";
 //        cycleLengthOutput += "The maximum distinct patterns of width " + width + " is " + maxDistinctPatterns + ".\n";
 //        cycleLengthOutput += "It is reached with crossing rule #" + maxPatternCrossingRule + "\n\n";
-        cycleLengthOutput += "The number of total distinct pattern is " + totalCount + ".\n\n";
+        cycleLengthOutput += "The average number of distinct pattern for each crossing rule is " + ((double) totalCount / 512) + ".\n\n";
         System.out.println(cycleLengthOutput);
         if (writeFile) {
             writer.println(cycleLengthOutput);
@@ -202,10 +206,6 @@ public class BruteForceRepeatTest {
         for (String str : iCC.iCM.keySet()) {
             iCC.iCM.replace(str, 0);
         }
-//            //Enable me check progress
-//            System.out.println("Generating rule " + crossingRuleNum + " on width " + width);
-//            System.out.println("Total Progress is " + (Math.round(((double) crossingRuleNum) / 511.0 * 100.0)) + "%");
-//            System.out.println();
         int holdtogether = 0;
         if (writeFile) {
             writer.println("For crossing rule " + crossingRuleNum + ":");
@@ -213,6 +213,7 @@ public class BruteForceRepeatTest {
         }
         CrossingRule crossingRule = new CrossingRule(crossingRuleNum);
         for (String inputStr : iCC.iCM.keySet()) {
+            DuplicateConditionContainer dCC = new DuplicateConditionContainer(new HashSet<>());
             // Check if the initial condition (or its equivalent) is mapped before.
             boolean repeat = false;
             // The following line split input string into array for every 3 characters.
@@ -227,12 +228,12 @@ public class BruteForceRepeatTest {
             }
 
             if (repeat) {
-//                    System.out.println("skip");
+//                System.out.println("skip");
                 continue;
             }
             //Convert string to array
             //Generate the cells
-            Generator cellGenerator = new Generator(iCC, crossingRule, turningRule, input, width, 1, turningStatusHashMap, crossingStatusHashMap);
+            Generator cellGenerator = new Generator(iCC, dCC, crossingRule, turningRule, input, width, 1, turningStatusHashMap, crossingStatusHashMap);
             //Update max cycle length
             int cycle = cellGenerator.generateCell(true);
             if (cycle > maxCycle) {
@@ -244,13 +245,13 @@ public class BruteForceRepeatTest {
             if (cycle != -1) {
                 ThreadHoldChecker threadHoldChecker = new ThreadHoldChecker(cellGenerator.getThreadsMap(), cellGenerator.getAvailableThreads());
                 boolean hold = threadHoldChecker.stronglyConnectedCheck(false);
-                if (hold && writeFile) {
-//                    writer.print("Cycle is: " + cycle);
-//                    writer.println();
-                    for (int j = 0; j < width; j++) {
-                        writer.print(input[j] + " ");
+                if (hold) {
+                    if (writeFile) {
+                        for (int j = 0; j < width; j++) {
+                            writer.print(input[j] + " ");
+                        }
+                        writer.println();
                     }
-                    writer.println();
                     holdtogether++;
                 }
             }
@@ -262,10 +263,9 @@ public class BruteForceRepeatTest {
                     iCC.iCM.replace(temp, 1);
                 }
             }
-        }
-        if (holdtogether > maxDistinctPatterns) {
-            maxDistinctPatterns = holdtogether;
-            maxPatternCrossingRule = crossingRuleNum;
+            for (String str : dCC.dCA) {
+                iCC.iCM.replace(str, 1);
+            }
         }
         totalCount += holdtogether;
         if (writeFile) {
@@ -282,4 +282,11 @@ public class BruteForceRepeatTest {
         }
     }
 
+    public static class DuplicateConditionContainer {
+        HashSet<String> dCA;
+
+        public DuplicateConditionContainer(HashSet<String> dCA) {
+            this.dCA = dCA;
+        }
+    }
 }

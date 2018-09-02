@@ -22,6 +22,12 @@ public class ThreadHoldChecker {
 
 
     public boolean stronglyConnectedCheck(boolean displayOutput) {
+//        for (int i = 0; i < threadsMap.length; i++) {
+//            for (int j = 0; j < threadsMap.length; j++) {
+//                System.out.print(threadsMap[i][j]);
+//            }
+//            System.out.println();
+//        }
         int size = availableThreads.length;
         connectivityChecklist = new ArrayList<>();
         componentsList = new ArrayList[size];

@@ -13,15 +13,18 @@ public class Generator {
     CellNode[] drawingRow;
     int[][] threadsMap;
     int[] availableThreads;
+    boolean checkingDuplicate;
 
     int width;
     int height;
     private HashMap<Character, TurningStatus> turningStatusHashMap;
     private HashMap<Character, CrossingStatus> crossingStatusHashMap;
-    private BruteForceRepeatTest.InitialConditionContainer initialConditionContainer;
+    private BruteForceSearch.InitialConditionContainer initialConditionContainer;
+    private BruteForceSearch.DuplicateConditionContainer duplicateConditionContainer;
 
-    public Generator(BruteForceRepeatTest.InitialConditionContainer initialConditionContainer, CrossingRule crossingRule, TurningRule turningRule, String[] input, int width, int height, HashMap<Character, TurningStatus> turningStatusHashMap, HashMap<Character, CrossingStatus> crossingStatusHashMap) throws Exception {
+    public Generator(BruteForceSearch.InitialConditionContainer initialConditionContainer, BruteForceSearch.DuplicateConditionContainer dCC, CrossingRule crossingRule, TurningRule turningRule, String[] input, int width, int height, HashMap<Character, TurningStatus> turningStatusHashMap, HashMap<Character, CrossingStatus> crossingStatusHashMap) throws Exception {
         this.initialConditionContainer = initialConditionContainer;
+        this.duplicateConditionContainer = dCC;
         this.turningRule = turningRule;
         this.crossingRule = crossingRule;
         this.input = input;
@@ -34,10 +37,11 @@ public class Generator {
         this.height = height;
         this.turningStatusHashMap = turningStatusHashMap;
         this.crossingStatusHashMap = crossingStatusHashMap;
+        checkingDuplicate = true;
     }
 
 
-    public void initialize() throws Exception {
+    public void initialize(boolean checkCycle) throws Exception {
         //Set up the initial row
         for (int col = 0; col < width; col++) {
             TurningStatus[] turningStatuses = new TurningStatus[2];
@@ -66,12 +70,7 @@ public class Generator {
             if (threads[0] + threads[1] != col * 4 + 1 && crossingStatus != CrossingStatus.NoCross) {
                 throw new Exception("Incorrect Crossing Status and Turning Status at initial row, col " + col + ".\n");
             }
-            if (crossingStatus == CrossingStatus.LeftTop) {
-                threadsMap[threads[1]][threads[0]] = 1;
-            } else if (crossingStatus == CrossingStatus.RightTop) {
-                threadsMap[threads[0]][threads[1]] = 1;
-            }
-            currentRow[col] = new CellNode(threads, turningStatuses, crossingStatus);
+            currentRow[col] = new CellNode(threads, turningStatuses, crossingStatus, !checkCycle, new MapContainer(threadsMap));
         }
         //Initialize checking row to be row 0.
         if (height - 1 == 0) {
@@ -93,7 +92,7 @@ public class Generator {
      * @throws Exception
      */
     public int generateCell(boolean checkCycle) throws Exception {
-        initialize();
+        initialize(checkCycle);
         int power = 1, lam = 1, row = 1, checking = 0;
         //Treat row 0 as the bottom of the grid. Our current row is row 1.
         if (checkCycle) {
@@ -114,12 +113,11 @@ public class Generator {
                 row++;
                 lam++;
             }
+            checkingDuplicate = false;
             // Generate the directed graph based on the cycle
             for (int i = 0; i <= lam; i++) {
-                if (checkingRow == null) {
-                    return -1;
-                }
-                checkingRow = nextRow(checkingRow, checking + i, true);
+                currentRow = nextRow(currentRow, row + 1, true);
+                row++;
             }
         }
         // Notice that if the row generated are less than the minimum height required by the user, we keep generating until we
@@ -169,11 +167,11 @@ public class Generator {
         for (int i = 0; i < width; i++) {
             rowString += toGenerate[i].toString();
         }
-        if (initialConditionContainer.iCM.containsKey(rowString)) {
+        if (initialConditionContainer.iCM.containsKey(rowString) && checkingDuplicate) {
             if (initialConditionContainer.iCM.get(rowString) == 1) {
                 return null;
             } else {
-                initialConditionContainer.iCM.replace(rowString, 1);
+                duplicateConditionContainer.dCA.add(rowString);
             }
         }
         return toGenerate;
@@ -185,7 +183,7 @@ public class Generator {
             return false;
         }
         if (row1.length != row2.length) {
-            //This shall not happen.
+            //This shall not happen if the program is generating everything correctly
             return false;
         }
         for (int i = 0; i < row1.length; i++) {
@@ -194,7 +192,7 @@ public class Generator {
                     && row1[i].getTurningStatus()[1] == row2[i].getTurningStatus()[1]
                     && row1[i].getThreads()[0] == row2[i].getThreads()[0]
                     && row1[i].getThreads()[1] == row2[i].getThreads()[1]
-                    ) {
+            ) {
                 continue;
             } else {
                 return false;

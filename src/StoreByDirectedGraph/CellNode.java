@@ -78,10 +78,17 @@ public class CellNode {
         }
     }
 
-    public CellNode(int[] threads, TurningStatus[] turningStatus, CrossingStatus crossingStatus) {
+    public CellNode(int[] threads, TurningStatus[] turningStatus, CrossingStatus crossingStatus, boolean drawGraph, Generator.MapContainer mapContainer) {
         this.turningStatus = turningStatus;
         this.crossingStatus = crossingStatus;
         this.threads = threads;
+        if (drawGraph) {
+            if (crossingStatus == CrossingStatus.LeftTop) {
+                mapContainer.theMap[threads[1]][threads[0]] = 1;
+            } else if (crossingStatus == CrossingStatus.RightTop) {
+                mapContainer.theMap[threads[0]][threads[1]] = 1;
+            }
+        }
     }
 
     public CellNode[] getNeighbors() {

@@ -1,6 +1,8 @@
 package StoreByDirectedGraph;
 
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.Scanner;
 
 /**
@@ -52,8 +54,10 @@ public class TextBasedInterface {
 //            input[i] = "SSR";
         }
 //        input[1] = "SNN";
-        BruteForceRepeatTest.InitialConditionContainer initialConditionContainer = new BruteForceRepeatTest.InitialConditionContainer(new HashMap<>());
-        Generator cellGenerator = new Generator(initialConditionContainer, crossingRule, turningRule, input, width, height, turningStatusHashMap, crossingStatusHashMap);
+        BruteForceSearch.InitialConditionContainer initialConditionContainer = new BruteForceSearch.InitialConditionContainer(new HashMap<>());
+        BruteForceSearch.DuplicateConditionContainer duplicateConditionContainer = new BruteForceSearch.DuplicateConditionContainer(new HashSet<>());
+
+        Generator cellGenerator = new Generator(initialConditionContainer, duplicateConditionContainer, crossingRule, turningRule, input, width, height, turningStatusHashMap, crossingStatusHashMap);
 
         System.out.println("\nIf you want to decide whether the pattern holds together based on a full cycle enter 1. Otherwise enter 0.");
 
